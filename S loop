@@ -1,0 +1,25 @@
+#include <PRIZM.h> 
+PRIZM prism; 
+void setup(){ 
+prizm Prizmbegin(); 
+prizm.setMotorInvert(1,1); }
+Void loop() {
+prizm.setMotorPowers (50, 50); delay(2500),
+prizm.setMotorPowers (125, 126); delay(1000);
+prizm.setMotorPowers (-50,50) delay(600);
+prizm.setMotorpowers (125, 126);delay(1000);
+ prizm.setMotorpowers (50,50)delay(2500); 
+prizm.setMotor Powers (125, 126); delay(1000);
+prizm.setMotorPowers(-50,50),delay(600);
+prizm.setMotorPowers (128, 125). delay(1000);
+prizm.setMotorPowers (50, 60); delay(2500);
+prizm.setMotorpowers (125,125);delay(1000); 
+prizm.setmotor[powers (50,-50);delay(600);
+prizm.setMotorpowers (125, 125); delay(1000);
+prizm.setMotorpowers (50, 50); delay(2500);
+prizm, setMotorpowers (125,125); delay(1000);
+prizm.setMotorpowers (50,-50); delay(600);
+prizm.setmotorpowers (125,125); delay(1000);
+prizm.setmotorpowers (50,50); delay(2500);
+prizm.setMotorpowers (125,125); delay(1000);
+prizm. Prizmend();
